@@ -20,9 +20,10 @@
 <device name="Android">
     <item name="none">0</item>
     <item name="screen.on">302</item>
-    <item name="screen.full">445.8</item>
-    <item name="bluetooth.active">107.6</item>
-    <item name="bluetooth.on">0.6</item>
+  <item name="bluetooth.active">17</item>
+  <item name="screen.full">445.8</item>
+  <item name="bluetooth.on">0.3</item>
+  <item name="bluetooth.at">35690</item>
     <item name="wifi.on">0.4</item>
     <item name="wifi.active">31.0</item>
     <item name="wifi.scan">6.5</item>
